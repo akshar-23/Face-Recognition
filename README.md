@@ -1,5 +1,5 @@
 # Face-Recognition
-Two python scripts for detecting face.
+Two python scripts for detecting face:
 
 
 The face_data_collect.py file is used to collect data of various users.
